@@ -1,4 +1,5 @@
 *
 !server
 !static
-!templates/index.html
+!templates/
+    !index.html
