@@ -2,4 +2,4 @@
 !server
 !static
 !templates/
-    !index.html
+    index.html
