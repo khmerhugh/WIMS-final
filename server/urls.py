@@ -8,6 +8,7 @@ urlpatterns = [
     re_path('login', login),
     re_path('signup', signup),
     re_path('test_token', test_token),
+    path('test_ai', test_ai),
     path('files', files),
     path('files/<int:pk>', file_detail, name='file_detail'),
     path('files/create/', create_file, name='create_file'),

@@ -1,4 +1,4 @@
 *
-!server/
-!static/*
-!templates/*
+!server
+!static
+!templates
